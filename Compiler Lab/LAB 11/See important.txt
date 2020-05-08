@@ -1,0 +1,2 @@
+I/P: Only arithmetic operation considered, which converted to postfix. Than given as input.
+O/p: Inorder traversal of graph.
